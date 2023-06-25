@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>323392440936-56n90a0p030ldq35outq0n0dr9hg249l.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.323392440936-56n90a0p030ldq35outq0n0dr9hg249l</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>323392440936-cv8i2cpfddphcuh3mmjoimkuvk8o6hb4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4s9JsK9kOmH83rBaNej-kHz47ZTXfkXM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>323392440936</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ecommerce</string>
+	<key>PROJECT_ID</key>
+	<string>friends-hive-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>friends-hive-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:323392440936:ios:dde6216a7de5641bf949dd</string>
+</dict>
+</plist>

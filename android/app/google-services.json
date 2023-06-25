@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "323392440936",
+    "project_id": "friends-hive-chat",
+    "storage_bucket": "friends-hive-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323392440936:android:b02557731c5d3de3f949dd",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323392440936-s3l8t2g007tgador32140jjad00n3c0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_hVRwcZNlYbaHjru_joELjPnL-9gqHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323392440936-fqcob4ei2qcab1jbcddhr1qgi5g3inl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323392440936-n7aog59eua9rrroagm86hllbtcrcgv4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nuhtech.pk.friendshivemessages"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323392440936:android:ce29acb61f5f33e7f949dd",
+        "android_client_info": {
+          "package_name": "com.nuhtech.pk.friendshivemessages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323392440936-cv8i2cpfddphcuh3mmjoimkuvk8o6hb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nuhtech.pk.friendshivemessages",
+            "certificate_hash": "251d340a1e3a7b6df2e8675c17b145f5efd159dc"
+          }
+        },
+        {
+          "client_id": "323392440936-s3l8t2g007tgador32140jjad00n3c0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw_hVRwcZNlYbaHjru_joELjPnL-9gqHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323392440936-fqcob4ei2qcab1jbcddhr1qgi5g3inl9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "323392440936-n7aog59eua9rrroagm86hllbtcrcgv4j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nuhtech.pk.friendshivemessages"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
